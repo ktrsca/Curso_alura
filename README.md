@@ -5,3 +5,5 @@
   Para ejecutar el sistema, debes poner:
   
   ```npm install all```
+
+  Sistema de Registro 2
